@@ -1,0 +1,10 @@
+venv
+.git
+
+.idea/
+
+.coverage
+__pycache__
+*.egg-info
+
+*.sqlite
